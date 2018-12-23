@@ -1,5 +1,5 @@
 {
-  "name": "razokulover-sandbox",
+  "name": "lambda-s3-rds-sls",
   "version": "1.0.0",
   "main": "index.js",
   "author": "YuheiNakasaka",
