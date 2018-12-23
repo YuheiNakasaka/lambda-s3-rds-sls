@@ -1,0 +1,14 @@
+{
+  "name": "razokulover-sandbox",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "YuheiNakasaka",
+  "license": "MIT",
+  "dependencies": {
+    "mysql": "^2.16.0"
+  },
+  "devDependencies": {
+    "aws-sdk": "^2.382.0",
+    "serverless-plugin-existing-s3": "^2.3.0"
+  }
+}
